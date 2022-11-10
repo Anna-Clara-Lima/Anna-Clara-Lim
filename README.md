@@ -16,6 +16,5 @@
 <div> 
    
  
-  ![Snake animation](https://github.com/rafaballerini/Anna-Clara-Lima/blob/output/github-contribution-grid-snake.svg)
  
 </div>
